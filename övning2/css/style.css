@@ -7,9 +7,12 @@ width: 200px ;
 background-color: pink;
 height: 100px;
 width: 200px ; 
+position: relative;
 }
 #ruta3{
 background-color: green;
-height: 100px;
-width: 200px ; 
+height: 50px;
+width: 50px ; 
+position: absolute;
+left:40px;
 }

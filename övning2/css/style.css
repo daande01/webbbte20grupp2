@@ -1,5 +1,5 @@
 #wrapper{
-width: 1000px;
+width: 100%;
 margin-left: auto;
 margin-right: auto;
   
@@ -8,31 +8,31 @@ margin-right: auto;
 
 header{
   height: 100px;
-  width: 800px;
+  width: 100%;
   background-color:pink;
 }
 nav{
   
   height:50px;
-  width: 800px;
+  width: 100%;
   background-color:#99dffc;
   
 }
 main{
   height:400px;
-  width: 600px;
+  width: 60%;
   background-color:#44dffc;
   
 }
 
 aside{
   height:400px;
-  width: 200px;
+  width: 40%;
   background-color:#03d99c;
 }
 footer{
   height:50px;
-  width: 800px;
+  width: 100%;
   background-color:#ccdffc;
   
   

@@ -1,18 +1,41 @@
-#ruta1{
-background-color: blue;
-height: 100px;
-width: 200px ; 
+header{
+  
+  height: 100px;
+  width: 800px;
+  background-color:pink;
 }
-#ruta2{
-background-color: pink;
-height: 100px;
-width: 200px ; 
-position: relative;
+nav{
+  
+  height:50px;
+  width: 800px;
+  background-color:#034444;
+  
 }
-#ruta3{
-background-color: green;
-height: 50px;
-width: 50px ; 
-position: absolute;
-left:40px;
+main{
+  height:400px;
+  width: 600px;
+  background-color:#44dffc;
+  
 }
+
+aside{
+  height:400px;
+  width: 200px;
+  background-color:#03d99c;
+  
+  
+}
+footer{
+  height:50px;
+  width: 800px;
+  background-color:#ccdffc;
+  
+  
+}
+#container{
+  display:flex;
+  
+}
+
+
+

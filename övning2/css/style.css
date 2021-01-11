@@ -1,5 +1,12 @@
-header{
+#wrapper{
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
   
+}
+
+
+header{
   height: 100px;
   width: 800px;
   background-color:pink;
@@ -8,7 +15,7 @@ nav{
   
   height:50px;
   width: 800px;
-  background-color:#034444;
+  background-color:#99dffc;
   
 }
 main{
@@ -22,8 +29,6 @@ aside{
   height:400px;
   width: 200px;
   background-color:#03d99c;
-  
-  
 }
 footer{
   height:50px;

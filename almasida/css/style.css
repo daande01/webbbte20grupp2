@@ -1,0 +1,33 @@
+
+header{
+  
+  background-color: green;
+  height:100px;
+  width: 100%;
+}
+nav{
+  background-color: pink;
+  height:50px;
+  width: 100%;
+}
+main{
+  background-color: orange;
+  height:400px;
+  width: 60%;
+}
+aside{
+  
+  background-color: green;
+  height:400px;
+  width: 40%;
+}
+footer{
+  background-color: #ff4da6;
+  height:100px;
+  width: 100%;
+  
+}
+#container{
+  display:flex;
+  
+}
